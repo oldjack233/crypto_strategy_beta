@@ -6,4 +6,4 @@
 
 - currently test for 1 year only
 - only include points where trades happen and value of profolio change by then, so looks discontinous
-- hedging part needs more consideration: option/future, borrow/split/switch...
+- hedging part needs more consideration: option/future, borrow/split/switch... currently assume always hedgable
