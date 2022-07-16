@@ -11,4 +11,4 @@
 
 | |annulised return|	sharpe ratio |	max monthly loss |	max drawback	| winning month ratio | number of trades | commission fee | capacity |
 |------|------:|------:|------:|------:|------:|------:|------:|------:|
-|	overall	|	41%|	1.62	|	-8.4%	|	-11.2%	|	79%	| 75 |0.05%| $100M(assumed)
+|	overall	|	41%|	1.62	|	-8.4%	|	-11.2%	|	79%	| 75 |0.05%| $500M(assumed)
